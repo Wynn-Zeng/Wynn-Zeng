@@ -7,7 +7,7 @@ Currently, I'm learning TypeScript and Python, and I enjoy contributing to vario
 - **[Epherome](https://github.com/ResetPower/Epherome)**: A multi-platform Minecraft launcher.
 
 ### My Projects
-- **Phasmaruo Space Generator**: A project in the planning stages.
+- **Elatitech Space Generator**: A project in the planning stages.
 - **[SDSZ Space](https://github.com/Wynn-Zeng/SDSZSpace-Web)**: An ongoing development school space project.
 
 Hope to become friends with you all! 😉
