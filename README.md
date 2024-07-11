@@ -10,6 +10,9 @@ Currently, I'm learning TypeScript and Python, and I enjoy contributing to vario
 - **Elatitech Space Generator**: A project in the planning stages.
 - **[SDSZ Space](https://github.com/Wynn-Zeng/SDSZSpace-Web)**: An ongoing development school space project.
 
+### My Organization
+- **[Elatitech](https://github.com/Elatitech)**: Bringing Joy with Technology. Welcome to join Elatitech! 
+
 Hope to become friends with you all! 😉
 
 ![Skills](https://skillicons.dev/icons?i=cloudflare,github,cs,html,js,ts,css,py,go,md,bash,git,linux,nginx,vim,vscode,tauri,jquery,nodejs,react)
